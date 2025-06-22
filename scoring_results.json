@@ -1,0 +1,602 @@
+[
+    {
+        "ranking": 1,
+        "ticker": "HWM",
+        "score": 0.20905752989179882,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\HWM.png"
+    },
+    {
+        "ranking": 2,
+        "ticker": "AJG",
+        "score": -0.04055876917859308,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AJG.png"
+    },
+    {
+        "ranking": 3,
+        "ticker": "MCK",
+        "score": -0.05819177765526603,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MCK.png"
+    },
+    {
+        "ranking": 4,
+        "ticker": "RSG",
+        "score": -0.06528863242582957,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\RSG.png"
+    },
+    {
+        "ranking": 5,
+        "ticker": "COR",
+        "score": -0.06808274528281628,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\COR.png"
+    },
+    {
+        "ranking": 6,
+        "ticker": "PWR",
+        "score": -0.07105386044538839,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PWR.png"
+    },
+    {
+        "ranking": 7,
+        "ticker": "LLY",
+        "score": -0.09469910569791895,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\LLY.png"
+    },
+    {
+        "ranking": 8,
+        "ticker": "HIG",
+        "score": -0.1000901475956304,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\HIG.png"
+    },
+    {
+        "ranking": 9,
+        "ticker": "AZO",
+        "score": -0.12009703221951029,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AZO.png"
+    },
+    {
+        "ranking": 10,
+        "ticker": "AFL",
+        "score": -0.13494325262459747,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AFL.png"
+    },
+    {
+        "ranking": 11,
+        "ticker": "WM",
+        "score": -0.13652328574180297,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\WM.png"
+    },
+    {
+        "ranking": 12,
+        "ticker": "TRGP",
+        "score": -0.13743897496924265,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\TRGP.png"
+    },
+    {
+        "ranking": 13,
+        "ticker": "ORLY",
+        "score": -0.1383000243055728,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ORLY.png"
+    },
+    {
+        "ranking": 14,
+        "ticker": "PGR",
+        "score": -0.15614017347176598,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PGR.png"
+    },
+    {
+        "ranking": 15,
+        "ticker": "GWW",
+        "score": -0.16151089272300057,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\GWW.png"
+    },
+    {
+        "ranking": 16,
+        "ticker": "WAB",
+        "score": -0.1691450858474589,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\WAB.png"
+    },
+    {
+        "ranking": 17,
+        "ticker": "CTAS",
+        "score": -0.1839105456543274,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CTAS.png"
+    },
+    {
+        "ranking": 18,
+        "ticker": "TRV",
+        "score": -0.18908742906477957,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\TRV.png"
+    },
+    {
+        "ranking": 19,
+        "ticker": "MMC",
+        "score": -0.1934178241210469,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MMC.png"
+    },
+    {
+        "ranking": 20,
+        "ticker": "CB",
+        "score": -0.1954456662995195,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CB.png"
+    },
+    {
+        "ranking": 21,
+        "ticker": "IBM",
+        "score": -0.2074722404879577,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\IBM.png"
+    },
+    {
+        "ranking": 22,
+        "ticker": "WMB",
+        "score": -0.21842042511603554,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\WMB.png"
+    },
+    {
+        "ranking": 23,
+        "ticker": "ACGL",
+        "score": -0.22641177383408806,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ACGL.png"
+    },
+    {
+        "ranking": 24,
+        "ticker": "TDG",
+        "score": -0.22824984462585254,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\TDG.png"
+    },
+    {
+        "ranking": 25,
+        "ticker": "CBOE",
+        "score": -0.2336544302581735,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CBOE.png"
+    },
+    {
+        "ranking": 26,
+        "ticker": "APH",
+        "score": -0.2418723912288823,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\APH.png"
+    },
+    {
+        "ranking": 27,
+        "ticker": "BSX",
+        "score": -0.24759561959938678,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\BSX.png"
+    },
+    {
+        "ranking": 28,
+        "ticker": "CAH",
+        "score": -0.24875340333315477,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CAH.png"
+    },
+    {
+        "ranking": 29,
+        "ticker": "MCD",
+        "score": -0.2529112085802987,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MCD.png"
+    },
+    {
+        "ranking": 30,
+        "ticker": "STLD",
+        "score": -0.26323969742879155,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\STLD.png"
+    },
+    {
+        "ranking": 31,
+        "ticker": "JBL",
+        "score": -0.2644997784844351,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\JBL.png"
+    },
+    {
+        "ranking": 32,
+        "ticker": "PH",
+        "score": -0.2679258364598743,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PH.png"
+    },
+    {
+        "ranking": 33,
+        "ticker": "WRB",
+        "score": -0.27363909652668367,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\WRB.png"
+    },
+    {
+        "ranking": 34,
+        "ticker": "ADP",
+        "score": -0.27613386089622133,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ADP.png"
+    },
+    {
+        "ranking": 35,
+        "ticker": "AVGO",
+        "score": -0.28087339972721054,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AVGO.png"
+    },
+    {
+        "ranking": 36,
+        "ticker": "MSI",
+        "score": -0.28138888897901293,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MSI.png"
+    },
+    {
+        "ranking": 37,
+        "ticker": "L",
+        "score": -0.28727419723007713,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\L.png"
+    },
+    {
+        "ranking": 38,
+        "ticker": "PANW",
+        "score": -0.29407215591190305,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PANW.png"
+    },
+    {
+        "ranking": 39,
+        "ticker": "ATO",
+        "score": -0.29454757786304175,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ATO.png"
+    },
+    {
+        "ranking": 40,
+        "ticker": "CNP",
+        "score": -0.29482346870463516,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CNP.png"
+    },
+    {
+        "ranking": 41,
+        "ticker": "SNA",
+        "score": -0.2974503102514649,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\SNA.png"
+    },
+    {
+        "ranking": 42,
+        "ticker": "PM",
+        "score": -0.2978274386614991,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PM.png"
+    },
+    {
+        "ranking": 43,
+        "ticker": "AIG",
+        "score": -0.29911184128045587,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AIG.png"
+    },
+    {
+        "ranking": 44,
+        "ticker": "CDNS",
+        "score": -0.3020407924043934,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CDNS.png"
+    },
+    {
+        "ranking": 45,
+        "ticker": "BRO",
+        "score": -0.30614866113623324,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\BRO.png"
+    },
+    {
+        "ranking": 46,
+        "ticker": "EG",
+        "score": -0.3068558202160505,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\EG.png"
+    },
+    {
+        "ranking": 47,
+        "ticker": "GD",
+        "score": -0.30930998461893516,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\GD.png"
+    },
+    {
+        "ranking": 48,
+        "ticker": "WMT",
+        "score": -0.31535787990220054,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\WMT.png"
+    },
+    {
+        "ranking": 49,
+        "ticker": "KO",
+        "score": -0.31625250182419645,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\KO.png"
+    },
+    {
+        "ranking": 50,
+        "ticker": "NRG",
+        "score": -0.3203279356016218,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\NRG.png"
+    },
+    {
+        "ranking": 51,
+        "ticker": "ABBV",
+        "score": -0.3213114726575221,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ABBV.png"
+    },
+    {
+        "ranking": 52,
+        "ticker": "DRI",
+        "score": -0.32621011601381794,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\DRI.png"
+    },
+    {
+        "ranking": 53,
+        "ticker": "AMP",
+        "score": -0.3294160982919436,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AMP.png"
+    },
+    {
+        "ranking": 54,
+        "ticker": "COST",
+        "score": -0.3305985766476796,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\COST.png"
+    },
+    {
+        "ranking": 55,
+        "ticker": "SO",
+        "score": -0.34276297499673436,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\SO.png"
+    },
+    {
+        "ranking": 56,
+        "ticker": "MAR",
+        "score": -0.34713463712298426,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MAR.png"
+    },
+    {
+        "ranking": 57,
+        "ticker": "PAYX",
+        "score": -0.34877468817173674,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PAYX.png"
+    },
+    {
+        "ranking": 58,
+        "ticker": "ED",
+        "score": -0.3527489642767317,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ED.png"
+    },
+    {
+        "ranking": 59,
+        "ticker": "TJX",
+        "score": -0.3531027001868629,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\TJX.png"
+    },
+    {
+        "ranking": 60,
+        "ticker": "AON",
+        "score": -0.3553466125255667,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AON.png"
+    },
+    {
+        "ranking": 61,
+        "ticker": "NOC",
+        "score": -0.35827766626880353,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\NOC.png"
+    },
+    {
+        "ranking": 62,
+        "ticker": "ETN",
+        "score": -0.35832089587991056,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ETN.png"
+    },
+    {
+        "ranking": 63,
+        "ticker": "HLT",
+        "score": -0.3592608561175167,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\HLT.png"
+    },
+    {
+        "ranking": 64,
+        "ticker": "HUBB",
+        "score": -0.3668120358319841,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\HUBB.png"
+    },
+    {
+        "ranking": 65,
+        "ticker": "YUM",
+        "score": -0.3721469894517182,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\YUM.png"
+    },
+    {
+        "ranking": 66,
+        "ticker": "AXP",
+        "score": -0.37398063677043986,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AXP.png"
+    },
+    {
+        "ranking": 67,
+        "ticker": "AME",
+        "score": -0.3785868351475151,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\AME.png"
+    },
+    {
+        "ranking": 68,
+        "ticker": "RJF",
+        "score": -0.37953529734664404,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\RJF.png"
+    },
+    {
+        "ranking": 69,
+        "ticker": "CL",
+        "score": -0.3795792408607321,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CL.png"
+    },
+    {
+        "ranking": 70,
+        "ticker": "KMI",
+        "score": -0.3896905899331587,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\KMI.png"
+    },
+    {
+        "ranking": 71,
+        "ticker": "IT",
+        "score": -0.39230792074674314,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\IT.png"
+    },
+    {
+        "ranking": 72,
+        "ticker": "DE",
+        "score": -0.39299292011637144,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\DE.png"
+    },
+    {
+        "ranking": 73,
+        "ticker": "MNST",
+        "score": -0.3941059116673867,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MNST.png"
+    },
+    {
+        "ranking": 74,
+        "ticker": "TKO",
+        "score": -0.3966363385288103,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\TKO.png"
+    },
+    {
+        "ranking": 75,
+        "ticker": "TSCO",
+        "score": -0.3990232559599899,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\TSCO.png"
+    },
+    {
+        "ranking": 76,
+        "ticker": "BR",
+        "score": -0.40515672553799587,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\BR.png"
+    },
+    {
+        "ranking": 77,
+        "ticker": "FICO",
+        "score": -0.4060567476409838,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\FICO.png"
+    },
+    {
+        "ranking": 78,
+        "ticker": "GS",
+        "score": -0.40639017426249996,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\GS.png"
+    },
+    {
+        "ranking": 79,
+        "ticker": "PG",
+        "score": -0.41552898068700983,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PG.png"
+    },
+    {
+        "ranking": 80,
+        "ticker": "GDDY",
+        "score": -0.41675449962119704,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\GDDY.png"
+    },
+    {
+        "ranking": 81,
+        "ticker": "URI",
+        "score": -0.421844497630841,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\URI.png"
+    },
+    {
+        "ranking": 82,
+        "ticker": "ALL",
+        "score": -0.42642793449666516,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ALL.png"
+    },
+    {
+        "ranking": 83,
+        "ticker": "XOM",
+        "score": -0.4285310380047211,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\XOM.png"
+    },
+    {
+        "ranking": 84,
+        "ticker": "CAT",
+        "score": -0.42896545070592,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CAT.png"
+    },
+    {
+        "ranking": 85,
+        "ticker": "MLM",
+        "score": -0.4318733574049953,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MLM.png"
+    },
+    {
+        "ranking": 86,
+        "ticker": "MA",
+        "score": -0.43461810814834323,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\MA.png"
+    },
+    {
+        "ranking": 87,
+        "ticker": "KR",
+        "score": -0.4388965600204418,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\KR.png"
+    },
+    {
+        "ranking": 88,
+        "ticker": "KLAC",
+        "score": -0.43979589288026094,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\KLAC.png"
+    },
+    {
+        "ranking": 89,
+        "ticker": "HES",
+        "score": -0.44227670730611524,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\HES.png"
+    },
+    {
+        "ranking": 90,
+        "ticker": "DUK",
+        "score": -0.44312623196558465,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\DUK.png"
+    },
+    {
+        "ranking": 91,
+        "ticker": "CI",
+        "score": -0.4449339217921989,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\CI.png"
+    },
+    {
+        "ranking": 92,
+        "ticker": "NI",
+        "score": -0.44515785204807506,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\NI.png"
+    },
+    {
+        "ranking": 93,
+        "ticker": "EMR",
+        "score": -0.44574903438187785,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\EMR.png"
+    },
+    {
+        "ranking": 94,
+        "ticker": "TT",
+        "score": -0.4468122072508208,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\TT.png"
+    },
+    {
+        "ranking": 95,
+        "ticker": "PEG",
+        "score": -0.44763961800637975,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\PEG.png"
+    },
+    {
+        "ranking": 96,
+        "ticker": "IRM",
+        "score": -0.44998689437992295,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\IRM.png"
+    },
+    {
+        "ranking": 97,
+        "ticker": "V",
+        "score": -0.4504465880773449,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\V.png"
+    },
+    {
+        "ranking": 98,
+        "ticker": "OKE",
+        "score": -0.45334894255265684,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\OKE.png"
+    },
+    {
+        "ranking": 99,
+        "ticker": "GE",
+        "score": -0.4549379209070693,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\GE.png"
+    },
+    {
+        "ranking": 100,
+        "ticker": "ROL",
+        "score": -0.45954694470224944,
+        "figure": "C:\\Users\\Dazhi Wang\\strat\\plots\\ROL.png"
+    }
+]
